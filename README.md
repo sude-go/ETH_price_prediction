@@ -8,7 +8,7 @@
   </a>
 
 <h3 align="center">ETH Price Prediction With Linear Regression</h3>
-[<kbd> Link To Project </kbd>][KBD]
+<a href="https://ethpriceprediction.streamlit.app/">Link to Project</a>
 </div>
 
 
