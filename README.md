@@ -8,21 +8,27 @@
   </a>
 
 <h3 align="center">ETH Price Prediction With Linear Regression</h3>
+[<kbd> Link To Project </kbd>][KBD]
 </div>
 
 
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
+
 - [About The Project](#about-the-project)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
 - [Usage](#usage)
 
 ## About The Project
 
-The Ethereum Price Predictor is a simple machine learning application built to predict future Ethereum (ETH) prices using historical data. The model is based on linear regression and allows users to predict future Ethereum prices for a specified range of dates. This project leverages Yahoo Finance's API to fetch historical Ethereum data, and the predictions are visualized in an interactive plot using Streamlit.
+The Ethereum Price Predictor is a simple machine learning application built to predict future Ethereum (ETH) prices
+using historical data. The model is based on linear regression and allows users to predict future Ethereum prices for a
+specified range of dates. This project leverages Yahoo Finance's API to fetch historical Ethereum data, and the
+predictions are visualized in an interactive plot using Streamlit.
 
 ## Built With
 
@@ -39,7 +45,8 @@ To get started with this project, follow the steps below to set up the project l
 
 ### Prerequisites
 
-You will need to have Python 3.7 or later installed on your system. It is also recommended to use a virtual environment to manage dependencies.
+You will need to have Python 3.7 or later installed on your system. It is also recommended to use a virtual environment
+to manage dependencies.
 
 - **Python**: 3.7 or later
 - **pip**: Package installer for Python
@@ -82,9 +89,12 @@ You will need to have Python 3.7 or later installed on your system. It is also r
     - Adjust the **Days to Predict into the Future** slider to predict future Ethereum prices.
     - Click the **Predict Now!** button to generate the predictions.
 
-4. You will see a graph showing the historical Ethereum prices and the predicted future prices along with a table of the predicted data.
+4. You will see a graph showing the historical Ethereum prices and the predicted future prices along with a table of the
+   predicted data.
 
 ---
+
+[KBD]:https://ethpriceprediction.streamlit.app/
 
 
 
