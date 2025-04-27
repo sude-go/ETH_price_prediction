@@ -86,7 +86,6 @@ You will need to have Python 3.7 or later installed on your system. It is also r
 
 ---
 
-This README can be adjusted depending on the final features and adjustments you make to your project.
 
 
 
